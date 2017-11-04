@@ -1,0 +1,24 @@
+<Page loaded="pageLoaded" class="page" xmlns="http://www.nativescript.org/tns.xsd">
+
+	<ActionBar title="Home" class="action-bar">
+	</ActionBar>
+	<ScrollView>
+		<StackLayout class="home-panel">
+			<!--Add your page content here-->
+			<Label textWrap="true" text="Play with NativeScript!" class="h2 description-label" />
+
+			<Label textWrap="true" text="Irina Hristova" class="h2 description-label" />
+
+			<Label textWrap="true" text="Irina Hristova" class="h2 description-label" />
+
+			<Label textWrap="true" text="Irina Hristova" class="h2 description-label" />
+
+
+
+
+			<Image style="width: 60%; height: 60%;" src="http://ultimatecat.lol/images/cat-head-white.png"></Image>
+
+
+		</StackLayout>
+	</ScrollView>
+</Page>
